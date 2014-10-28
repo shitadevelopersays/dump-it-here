@@ -1,4 +1,5 @@
 dump-it-here
 ============
 
-TODO
+####Hover Effects
+- http://tympanus.net/Development/HoverEffectIdeas/index.html
